@@ -22,6 +22,7 @@ barplot(x,
         ylim=c(0,100))
 ```
 ***Output:***
+<br>
 ![](https://i.imgur.com/3GyHf0V.png)
 
 ```r
@@ -37,6 +38,7 @@ pie(x,
             "orange"))
 ```
 ***Output:***
+<br>
 ![](https://i.imgur.com/okWLfd1.png)
 
 ## Questão 2
@@ -50,6 +52,7 @@ freq_table <- transform(table(scores))
 transform(freq_table,Rel_Freq=prop.table(Freq),pcrt=paste(prop.table(Freq)*100,"%",sep=""))
 ```
 ***Output:***
+<br>
 ```r
    scores Freq   Rel_Freq              pcrt
 1  (0,10]    5 0.02976190 2.97619047619048%
@@ -71,6 +74,7 @@ hist(data,
         xlim=c(1,100))
 ```
 ***Output:***
+<br>
 ![](https://i.imgur.com/NBxZWte.png)
 
 ## Questão 3
@@ -100,6 +104,7 @@ legend("bottomright",
        cex=.7)
 ```
 ***Output:***
+<br>
 ![](https://i.imgur.com/G6zKYhF.png)
 
 ```r
@@ -123,6 +128,7 @@ legend(.25,120,
        cex=.7)
 ```
 ***Output:***
+<br>
 ![](https://i.imgur.com/y0x5peY.png)
 
 # Questão 4
