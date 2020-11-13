@@ -133,7 +133,7 @@ legend(.25,120,
 
 ![](https://i.imgur.com/y0x5peY.png)
 
-# Questão 4
+## Questão 4
 <br/>
 
 ```r
