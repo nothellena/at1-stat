@@ -21,7 +21,7 @@ barplot(x,
         col = c("red", "orange"),
         ylim=c(0,100))
 ```
-***Output:***
+***Output***
 <br>
 ![](https://i.imgur.com/3GyHf0V.png)
 
@@ -37,7 +37,7 @@ pie(x,
     col = c("red",
             "orange"))
 ```
-***Output:***
+***Output***
 <br>
 ![](https://i.imgur.com/okWLfd1.png)
 
@@ -51,7 +51,7 @@ scores <- cut(data,bins)
 freq_table <- transform(table(scores))
 transform(freq_table,Rel_Freq=prop.table(Freq),pcrt=paste(prop.table(Freq)*100,"%",sep=""))
 ```
-***Output:***
+***Output***
 <br>
 ```r
    scores Freq   Rel_Freq              pcrt
@@ -73,7 +73,7 @@ hist(data,
         ylab="Frequência Absoluta",
         xlim=c(1,100))
 ```
-***Output:***
+***Output***
 <br>
 ![](https://i.imgur.com/NBxZWte.png)
 
@@ -103,8 +103,9 @@ legend("bottomright",
        fill=terrain.colors(6),
        cex=.7)
 ```
-***Output:***
-<br>
+***Output***
+<br/>
+
 ![](https://i.imgur.com/G6zKYhF.png)
 
 ```r
@@ -127,8 +128,9 @@ legend(.25,120,
        horiz=TRUE,
        cex=.7)
 ```
-***Output:***
-<br>
+***Output***
+<br/>
+
 ![](https://i.imgur.com/y0x5peY.png)
 
 # Questão 4
@@ -143,7 +145,7 @@ boxplot(mulheres,homens,
         names = c("Feminino","Masculino"),
         col = topo.colors(2)) 
 ```
-***Output:***
+***Output***
 ![](https://i.imgur.com/RKbuTCP.png)
 
 ## Questão 5
