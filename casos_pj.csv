@@ -1,0 +1,169 @@
+,id,sexo,municipio_residencia,classificacao,situacao_atual,data_resultado_exame,data_atendimento,tipo_coleta,idade,data_obito,data_confirmacao_obito,febre,tosse,cefaleia,dificuldade_respiratoria
+851,881,Masculino,Paulo Jacinto,Confirmado,Obito,2020-04-28T03:00:00.000Z,2020-04-24T03:00:00.000Z,Swab nasofaringe + RT-PCR,84.0,2020-05-02T03:00:00.000Z,2020-05-05T03:00:00.000Z,0,0,0,0
+1517,1566,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-04T03:00:00.000Z,2020-04-30T03:00:00.000Z,Teste Rapido,44.0,,,0,0,0,0
+2156,2225,Feminino,Paulo Jacinto,Confirmado,Óbito,2020-05-09T03:00:00.000Z,2020-04-10T03:00:00.000Z,Teste Rapido,76.0,2020-05-07T03:00:00.000Z,2020-05-11T03:00:00.000Z,1,0,0,1
+2364,2440,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-11T03:00:00.000Z,2020-05-04T03:00:00.000Z,Swab nasofaringe + RT-PCR,40.0,,,0,0,0,0
+3166,3273,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-15T03:00:00.000Z,2020-05-06T03:00:00.000Z,Teste Rapido,46.0,,,0,0,0,0
+3169,3276,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-15T03:00:00.000Z,2020-05-14T03:00:00.000Z,Teste Rapido,42.0,,,0,0,0,0
+3345,3455,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-15T03:00:00.000Z,2020-05-14T03:00:00.000Z,Teste Rápido,41.0,,,1,1,0,0
+4057,4236,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-18T03:00:00.000Z,2020-05-05T03:00:00.000Z,Teste Rapido,46.0,,,0,1,0,0
+4060,4239,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-18T03:00:00.000Z,2020-05-14T03:00:00.000Z,Teste Rápido,68.0,,,1,1,1,0
+4256,4475,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-14T03:00:00.000Z,2020-05-14T03:00:00.000Z,Teste Rapido,35.0,,,0,0,0,0
+7379,7909,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-25T03:00:00.000Z,2020-05-25T03:00:00.000Z,Teste Rápido,29.0,,,1,1,1,0
+7381,7911,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-25T03:00:00.000Z,2020-05-25T03:00:00.000Z,Teste Rápido,18.0,,,1,0,0,0
+7384,7914,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-25T03:00:00.000Z,2020-05-25T03:00:00.000Z,Teste Rápido,38.0,,,1,0,1,0
+7386,7916,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-20T03:00:00.000Z,2020-05-20T03:00:00.000Z,Teste Rápido,61.0,,,1,1,0,0
+7390,7920,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-26T03:00:00.000Z,2020-05-26T03:00:00.000Z,Teste Rápido,25.0,,,1,0,0,0
+7392,7922,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-26T03:00:00.000Z,2020-05-19T03:00:00.000Z,Teste Rápido,36.0,,,1,0,0,0
+7393,7923,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-19T03:00:00.000Z,2020-05-19T03:00:00.000Z,Teste Rapido,56.0,,,0,0,0,0
+7395,7925,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-26T03:00:00.000Z,2020-05-18T03:00:00.000Z,Teste Rápido,48.0,,,1,1,0,0
+7398,7928,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-26T03:00:00.000Z,2020-05-26T03:00:00.000Z,Teste Rápido,42.0,,,1,1,1,0
+7404,7934,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-26T03:00:00.000Z,2020-05-22T03:00:00.000Z,Teste Rapido,75.0,,,0,1,0,0
+7408,7939,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-18T03:00:00.000Z,2020-05-15T03:00:00.000Z,Teste Rápido,37.0,,,1,1,0,0
+7410,7941,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-18T03:00:00.000Z,2020-05-11T03:00:00.000Z,Teste Rápido,40.0,,,1,1,0,0
+7413,7945,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-13T03:00:00.000Z,2020-05-05T03:00:00.000Z,Teste Rápido,60.0,,,1,1,1,0
+8409,9015,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-25T03:00:00.000Z,2020-05-25T03:00:00.000Z,Teste Rápido,56.0,,,1,1,0,0
+8413,9019,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-27T03:00:00.000Z,2020-05-27T03:00:00.000Z,Teste Rápido,27.0,,,1,1,0,0
+8416,9022,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-28T03:00:00.000Z,2020-05-28T03:00:00.000Z,Teste Rapido,53.0,,,0,0,1,0
+8421,9028,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-23T03:00:00.000Z,2020-05-23T03:00:00.000Z,Swab nasofaringe + RT-PCR,70.0,,,0,1,0,0
+8427,9034,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-28T03:00:00.000Z,2020-05-28T03:00:00.000Z,Teste Rapido,52.0,,,0,1,0,0
+8430,9037,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-26T03:00:00.000Z,2020-05-26T03:00:00.000Z,Teste Rápido,50.0,,,1,1,0,0
+9269,9910,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-29T03:00:00.000Z,2020-05-28T03:00:00.000Z,Teste Rápido,67.0,,,1,1,0,0
+9271,9912,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-29T03:00:00.000Z,2020-05-28T03:00:00.000Z,Teste Rápido,44.0,,,1,1,0,0
+9274,9915,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-29T03:00:00.000Z,2020-05-28T03:00:00.000Z,Teste Rápido,37.0,,,1,0,0,0
+9276,9917,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-29T03:00:00.000Z,2020-05-28T03:00:00.000Z,Teste Rápido,33.0,,,1,1,0,0
+9278,9919,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-29T03:00:00.000Z,2020-05-27T03:00:00.000Z,Teste Rápido,47.0,,,1,0,1,0
+9281,9922,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-29T03:00:00.000Z,2020-05-27T03:00:00.000Z,Teste Rapido,37.0,,,0,1,0,0
+9283,9924,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-29T03:00:00.000Z,2020-05-26T03:00:00.000Z,Teste Rápido,33.0,,,1,1,0,0
+9286,9928,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-29T03:00:00.000Z,2020-05-26T03:00:00.000Z,Teste Rapido,34.0,,,0,1,1,0
+9289,9932,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-28T03:00:00.000Z,2020-05-19T03:00:00.000Z,Teste Rápido,45.0,,,1,1,0,0
+11352,12169,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-01T03:00:00.000Z,2020-06-01T03:00:00.000Z,Teste Rapido,76.0,,,0,1,0,0
+11374,12192,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-01T03:00:00.000Z,2020-05-28T03:00:00.000Z,Teste Rápido,55.0,,,1,1,0,0
+11412,12233,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-01T03:00:00.000Z,2020-05-27T03:00:00.000Z,Teste Rapido,22.0,,,0,1,0,0
+11417,12238,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-01T03:00:00.000Z,2020-05-27T03:00:00.000Z,Teste Rápido,50.0,,,1,1,0,0
+11432,12256,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-01T03:00:00.000Z,2020-05-27T03:00:00.000Z,Teste Rapido,65.0,,,0,1,0,0
+11445,12270,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-01T03:00:00.000Z,2020-05-26T03:00:00.000Z,Teste Rápido,26.0,,,1,1,0,0
+11453,12278,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-01T03:00:00.000Z,2020-05-26T03:00:00.000Z,Teste Rapido,38.0,,,0,0,1,0
+11469,12295,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-01T03:00:00.000Z,2020-05-26T03:00:00.000Z,Teste Rapido,44.0,,,0,1,1,0
+11473,12299,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-01T03:00:00.000Z,2020-05-25T03:00:00.000Z,Teste Rapido,30.0,,,0,1,0,0
+12228,13095,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-02T03:00:00.000Z,2020-06-02T03:00:00.000Z,Teste Rápido,25.0,,,1,1,1,0
+13277,14188,Feminino,Paulo Jacinto,Confirmado,Óbito,2020-06-04T03:00:00.000Z,2020-05-12T03:00:00.000Z,Swab nasofaringe + RT-PCR,56.0,2020-05-12T03:00:00.000Z,2020-06-05T03:00:00.000Z,0,1,0,0
+13372,14283,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-04T03:00:00.000Z,2020-06-02T03:00:00.000Z,Teste Rapido,53.0,,,0,1,1,0
+13518,14433,Feminino,Paulo Jacinto,Confirmado,Alta Hospitalar,2020-06-04T03:00:00.000Z,2020-05-27T03:00:00.000Z,Swab nasofaringe + RT-PCR,45.0,,,0,0,0,0
+15973,16991,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-06T03:00:00.000Z,2020-06-06T03:00:00.000Z,Teste Rápido,34.0,,,1,1,1,0
+16683,17759,Masculino,Paulo Jacinto,Confirmado,Óbito,2020-06-08T03:00:00.000Z,2020-06-06T03:00:00.000Z,Swab nasofaringe + RT-PCR,78.0,2020-06-10T03:00:00.000Z,2020-06-12T03:00:00.000Z,0,0,0,0
+19524,20853,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-05T03:00:00.000Z,2020-05-30T03:00:00.000Z,Teste Rápido,33.0,,,1,1,0,0
+19525,20854,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-10T03:00:00.000Z,2020-06-09T03:00:00.000Z,Teste Rapido,68.0,,,0,1,1,0
+19529,20860,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-09T03:00:00.000Z,2020-06-03T03:00:00.000Z,Teste Rapido,72.0,,,0,1,0,0
+19531,20862,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-09T03:00:00.000Z,2020-06-05T03:00:00.000Z,Teste Rápido,75.0,,,1,1,0,0
+19535,20866,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-08T03:00:00.000Z,2020-06-02T03:00:00.000Z,Teste Rápido,47.0,,,1,1,0,0
+19539,20871,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-06T03:00:00.000Z,2020-05-26T03:00:00.000Z,Teste Rápido,21.0,,,1,0,1,0
+19542,20874,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-08T03:00:00.000Z,2020-06-02T03:00:00.000Z,Teste Rapido,34.0,,,0,1,1,0
+19546,20878,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-08T03:00:00.000Z,2020-06-02T03:00:00.000Z,Teste Rápido,53.0,,,1,1,0,0
+19549,20881,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-10T03:00:00.000Z,2020-06-10T03:00:00.000Z,Teste Rapido,73.0,,,0,0,0,0
+19553,20885,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-08T03:00:00.000Z,2020-06-02T03:00:00.000Z,Teste Rapido,45.0,,,0,1,0,0
+19556,20888,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-02T03:00:00.000Z,2020-06-02T03:00:00.000Z,Teste Rápido,27.0,,,1,0,0,0
+19562,20894,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-03T03:00:00.000Z,2020-06-03T03:00:00.000Z,Teste Rapido,30.0,,,0,0,0,0
+22697,24193,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-12T03:00:00.000Z,2020-06-12T03:00:00.000Z,Teste Rapido,28.0,,,0,0,0,0
+22698,24194,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-12T03:00:00.000Z,2020-06-12T03:00:00.000Z,Teste Rapido,58.0,,,0,0,1,0
+22700,24197,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-10T03:00:00.000Z,2020-06-10T03:00:00.000Z,Teste Rapido,44.0,,,0,1,1,0
+22701,24199,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-03T03:00:00.000Z,2020-06-03T03:00:00.000Z,Teste Rápido,29.0,,,1,1,1,0
+22717,24216,Feminino,Paulo Jacinto,Confirmado,Encerramento do Isolamento Domiciliar,2020-06-09T03:00:00.000Z,2020-06-09T03:00:00.000Z,Teste Rapido,49.0,,,0,0,1,0
+22718,24218,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-03T03:00:00.000Z,2020-06-03T03:00:00.000Z,Teste Rápido,20.0,,,1,1,0,0
+22719,24219,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-08T03:00:00.000Z,2020-06-08T03:00:00.000Z,Teste Rápido,27.0,,,1,1,1,0
+22720,24220,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-03T03:00:00.000Z,2020-06-03T03:00:00.000Z,Teste Rápido,45.0,,,1,0,1,0
+23319,24863,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-03T03:00:00.000Z,2020-05-27T03:00:00.000Z,Teste Rapido,18.0,,,0,1,0,0
+23322,24866,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-03T03:00:00.000Z,2020-05-26T03:00:00.000Z,Teste Rapido,45.0,,,0,1,0,0
+23325,24869,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-03T03:00:00.000Z,2020-05-27T03:00:00.000Z,Teste Rápido,33.0,,,1,1,0,0
+23328,24872,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-03T03:00:00.000Z,2020-05-29T03:00:00.000Z,Teste Rápido,24.0,,,1,0,0,0
+23331,24875,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-03T03:00:00.000Z,2020-05-24T03:00:00.000Z,Teste Rápido,50.0,,,1,1,0,0
+23332,24876,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-15T03:00:00.000Z,2020-06-15T03:00:00.000Z,Teste Rápido,61.0,,,1,1,0,0
+23333,24877,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-03T03:00:00.000Z,2020-05-27T03:00:00.000Z,Teste Rapido,47.0,,,0,0,0,0
+23334,24878,Masculino,Paulo Jacinto,Confirmado,Óbito,2020-06-12T03:00:00.000Z,2020-06-12T03:00:00.000Z,Teste Rapido,58.0,2020-06-19T03:00:00.000Z,2020-07-08T03:00:00.000Z,0,1,0,0
+23337,24881,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-03T03:00:00.000Z,2020-06-03T03:00:00.000Z,Teste Rapido,19.0,,,0,0,1,0
+23338,24882,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-15T03:00:00.000Z,2020-06-15T03:00:00.000Z,Teste Rapido,32.0,,,0,1,0,0
+23340,24884,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-15T03:00:00.000Z,2020-06-15T03:00:00.000Z,Teste Rápido,25.0,,,1,1,0,0
+23341,24885,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-03T03:00:00.000Z,2020-05-27T03:00:00.000Z,Teste Rapido,31.0,,,0,1,0,0
+23345,24890,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-03T03:00:00.000Z,2020-05-27T03:00:00.000Z,Teste Rapido,17.0,,,0,0,0,0
+23346,24891,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-15T03:00:00.000Z,2020-06-15T03:00:00.000Z,Teste Rapido,12.0,,,0,0,1,0
+23348,24893,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-15T03:00:00.000Z,2020-06-15T03:00:00.000Z,Teste Rápido,34.0,,,1,0,1,0
+23351,24896,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-15T03:00:00.000Z,2020-06-05T03:00:00.000Z,Teste Rápido,35.0,,,1,0,1,0
+23669,25227,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-12T03:00:00.000Z,2020-06-12T03:00:00.000Z,Teste Rapido,18.0,,,0,1,0,0
+24157,25741,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-12T03:00:00.000Z,2020-06-12T03:00:00.000Z,Teste Rápido,40.0,,,1,1,0,0
+24160,25745,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-15T03:00:00.000Z,2020-06-15T03:00:00.000Z,Teste Rápido,31.0,,,1,1,1,0
+24164,25749,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-16T03:00:00.000Z,2020-06-16T03:00:00.000Z,Teste Rápido,25.0,,,1,1,1,0
+24173,25759,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-15T03:00:00.000Z,2020-06-15T03:00:00.000Z,Teste Rápido,24.0,,,1,0,0,0
+24175,25762,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-15T03:00:00.000Z,2020-06-15T03:00:00.000Z,Teste Rápido,53.0,,,1,1,1,0
+24180,25767,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-16T03:00:00.000Z,2020-06-16T03:00:00.000Z,Teste Rápido,21.0,,,1,1,1,0
+24184,25771,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-08T03:00:00.000Z,2020-06-08T03:00:00.000Z,Teste Rapido,37.0,,,0,0,0,0
+26095,27792,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-02T03:00:00.000Z,2020-06-02T03:00:00.000Z,Teste Rapido,34.0,,,0,0,0,0
+26100,27797,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-01T03:00:00.000Z,2020-06-01T03:00:00.000Z,Teste Rapido,28.0,,,0,0,1,0
+26105,27802,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-02T03:00:00.000Z,2020-06-02T03:00:00.000Z,Teste Rápido,22.0,,,1,1,0,0
+26115,27812,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-02T03:00:00.000Z,2020-06-02T03:00:00.000Z,Teste Rápido,23.0,,,1,1,0,0
+26121,27818,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-05T03:00:00.000Z,2020-06-05T03:00:00.000Z,Teste Rapido,32.0,,,0,1,0,0
+26131,27828,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-02T03:00:00.000Z,2020-06-02T03:00:00.000Z,Teste Rápido,57.0,,,1,1,0,0
+26141,27838,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-08T03:00:00.000Z,2020-06-08T03:00:00.000Z,Teste Rapido,25.0,,,0,0,0,0
+26215,27913,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-18T03:00:00.000Z,2020-06-18T03:00:00.000Z,Teste Rapido,51.0,,,0,1,1,0
+26218,27916,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-17T03:00:00.000Z,2020-06-11T03:00:00.000Z,Teste Rápido,40.0,,,1,0,0,0
+26221,27919,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-18T03:00:00.000Z,2020-06-15T03:00:00.000Z,Teste Rápido,33.0,,,1,1,0,0
+26224,27922,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-18T03:00:00.000Z,2020-06-09T03:00:00.000Z,Teste Rápido,44.0,,,1,1,0,0
+28776,30575,Masculino,Paulo Jacinto,Confirmado,Óbito,2020-06-21T03:00:00.000Z,2020-06-13T03:00:00.000Z,Swab nasofaringe + RT-PCR,68.0,2020-07-17T03:00:00.000Z,2020-08-26T03:00:00.000Z,1,1,1,0
+29142,30965,Feminino,Paulo Jacinto,Confirmado,Encerramento do Isolamento Domiciliar,2020-06-05T03:00:00.000Z,2020-06-05T03:00:00.000Z,Teste Rápido,65.0,,,1,0,0,0
+30297,32184,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-22T03:00:00.000Z,2020-06-22T03:00:00.000Z,Teste Rapido,43.0,,,0,1,0,0
+36123,38272,Feminino,Paulo Jacinto,Confirmado,Óbito,2020-05-22T03:00:00.000Z,2020-05-22T03:00:00.000Z,Teste Rapido,77.0,2020-06-04T03:00:00.000Z,2020-07-01T03:00:00.000Z,1,1,1,0
+43338,45817,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-05-28T03:00:00.000Z,2020-07-09T03:00:00.000Z,Teste Rapido,64.0,,,0,1,1,0
+43825,46316,Masculino,Paulo Jacinto,Confirmado,Encerramento do Isolamento Domiciliar,2020-06-15T03:00:00.000Z,2020-06-02T03:00:00.000Z,Teste Rápido,63.0,,,1,1,0,0
+43830,46321,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-07-06T03:00:00.000Z,2020-06-25T03:00:00.000Z,Teste Rapido,40.0,,,0,1,1,0
+43843,46335,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-02T03:00:00.000Z,2020-07-01T03:00:00.000Z,Teste Rapido,42.0,,,0,0,0,0
+43856,46348,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-29T03:00:00.000Z,2020-06-22T03:00:00.000Z,Teste Rapido,49.0,,,0,1,1,0
+43864,46356,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-07-01T03:00:00.000Z,2020-07-01T03:00:00.000Z,Teste Rapido,59.0,,,0,0,0,0
+43866,46358,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-29T03:00:00.000Z,2020-06-22T03:00:00.000Z,Teste Rapido,34.0,,,0,0,0,0
+46750,49426,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-07-04T03:00:00.000Z,2020-07-04T03:00:00.000Z,Outros,33.0,,,0,0,0,0
+47958,50675,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-24T03:00:00.000Z,2020-06-18T03:00:00.000Z,Teste Rapido,21.0,,,0,1,0,0
+48481,51229,Masculino,Paulo Jacinto,Confirmado,Internacao Leito Clinico,2020-07-16T03:00:00.000Z,2020-06-29T03:00:00.000Z,Swab nasofaringe + RT-PCR,75.0,,,0,0,0,0
+50129,52975,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-07-17T03:00:00.000Z,2020-07-17T03:00:00.000Z,Teste Rápido,64.0,,,1,0,0,0
+50135,52981,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-07-17T03:00:00.000Z,2020-07-17T03:00:00.000Z,Teste Rápido,33.0,,,1,1,0,0
+51656,54570,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-06-24T03:00:00.000Z,2020-06-24T03:00:00.000Z,Teste Rapido,24.0,,,0,0,1,0
+51663,54577,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-07-16T03:00:00.000Z,2020-07-16T03:00:00.000Z,Teste Rápido,48.0,,,1,1,1,0
+51671,54585,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-07-07T03:00:00.000Z,2020-07-07T03:00:00.000Z,Teste Rápido,25.0,,,1,0,1,0
+58002,61138,Feminino,Paulo Jacinto,Confirmado,Encerramento do Isolamento Domiciliar,2020-07-17T03:00:00.000Z,2020-07-29T03:00:00.000Z,Teste Rapido,27.0,,,0,0,0,0
+58006,61142,Masculino,Paulo Jacinto,Confirmado,Encerramento do Isolamento Domiciliar,2020-07-17T03:00:00.000Z,2020-07-29T03:00:00.000Z,Teste Rapido,30.0,,,0,0,0,0
+58016,61152,Masculino,Paulo Jacinto,Confirmado,Encerramento do Isolamento Domiciliar,2020-07-17T03:00:00.000Z,2020-07-29T03:00:00.000Z,Teste Rapido,33.0,,,0,0,0,0
+58019,61155,Feminino,Paulo Jacinto,Confirmado,Encerramento do Isolamento Domiciliar,2020-07-20T03:00:00.000Z,2020-07-29T03:00:00.000Z,Teste Rapido,38.0,,,0,0,0,0
+60905,64121,Feminino,Paulo Jacinto,Confirmado,Óbito,2020-08-03T03:00:00.000Z,2020-07-26T03:00:00.000Z,Swab nasofaringe + RT-PCR,70.0,2020-07-26T03:00:00.000Z,2020-08-18T03:00:00.000Z,0,0,1,0
+62081,65333,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-08-01T03:00:00.000Z,2020-08-02T03:00:00.000Z,Teste Rapido,42.0,,,0,0,0,0
+62083,65335,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-08-01T03:00:00.000Z,2020-08-02T03:00:00.000Z,Teste Rapido,50.0,,,0,0,0,0
+62086,65339,Masculino,Paulo Jacinto,Confirmado,Encerramento do Isolamento Domiciliar,2020-08-01T03:00:00.000Z,2020-08-02T03:00:00.000Z,Teste Rapido,48.0,,,0,0,0,0
+62087,65340,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-08-01T03:00:00.000Z,2020-08-02T03:00:00.000Z,Teste Rapido,53.0,,,0,0,0,0
+62089,65342,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-08-01T03:00:00.000Z,2020-08-02T03:00:00.000Z,Teste Rapido,27.0,,,0,0,0,0
+63368,66687,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-08-04T03:00:00.000Z,2020-08-04T03:00:00.000Z,Teste Rapido,37.0,,,0,0,0,0
+63372,66691,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-08-03T03:00:00.000Z,2020-08-04T03:00:00.000Z,Teste Rapido,14.0,,,0,0,0,0
+65890,69259,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-08-07T03:00:00.000Z,2020-08-07T03:00:00.000Z,Teste Rápido,83.0,,,1,1,1,0
+65896,69265,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-08-07T03:00:00.000Z,2020-08-07T03:00:00.000Z,Teste Rápido,87.0,,,1,1,1,0
+68982,72439,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-08-08T03:00:00.000Z,2020-08-11T03:00:00.000Z,Teste Rapido,1.0,,,0,0,0,0
+68987,72445,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-08-08T03:00:00.000Z,2020-08-11T03:00:00.000Z,Teste Rapido,5.0,,,0,0,0,0
+69948,73426,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-08-12T03:00:00.000Z,2020-08-07T03:00:00.000Z,Teste Rapido,58.0,,,0,0,0,0
+73058,76640,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-08-17T03:00:00.000Z,2020-08-17T03:00:00.000Z,Teste Rapido,6.0,,,0,1,0,0
+74786,78432,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-08-20T03:00:00.000Z,2020-08-20T03:00:00.000Z,Teste Rapido,41.0,,,0,0,1,0
+74794,78440,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-08-20T03:00:00.000Z,2020-08-20T03:00:00.000Z,Teste Rapido,42.0,,,0,1,1,0
+75092,78745,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-08-14T03:00:00.000Z,2020-08-05T03:00:00.000Z,Teste Rapido,41.0,,,0,1,0,0
+75093,78746,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-08-17T03:00:00.000Z,2020-08-07T03:00:00.000Z,Teste Rápido,56.0,,,1,1,0,0
+75632,79307,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-08-08T03:00:00.000Z,2020-08-05T03:00:00.000Z,Teste Rapido,35.0,,,0,1,1,0
+75640,79315,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-07-31T03:00:00.000Z,2020-07-27T03:00:00.000Z,Teste Rápido,45.0,,,1,1,0,0
+76499,80197,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-08-21T03:00:00.000Z,2020-08-24T03:00:00.000Z,Teste Rapido,30.0,,,0,0,1,0
+76503,80201,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-08-21T03:00:00.000Z,2020-08-24T03:00:00.000Z,Teste Rapido,33.0,,,0,1,1,0
+76505,80203,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-08-24T03:00:00.000Z,2020-08-24T03:00:00.000Z,Teste Rapido,4.0,,,0,1,0,0
+76507,80205,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-08-24T03:00:00.000Z,2020-08-24T03:00:00.000Z,Teste Rapido,54.0,,,0,1,1,0
+76510,80208,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-08-24T03:00:00.000Z,2020-08-24T03:00:00.000Z,Teste Rápido,31.0,,,1,0,1,0
+76537,80235,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-08-24T03:00:00.000Z,2020-08-21T03:00:00.000Z,Teste Rápido,69.0,,,1,0,1,0
+76539,80237,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-08-24T03:00:00.000Z,2020-08-17T03:00:00.000Z,Teste Rapido,32.0,,,0,1,0,0
+76696,80400,Feminino,Paulo Jacinto,Confirmado,Encerramento do Isolamento Domiciliar,2020-08-21T03:00:00.000Z,2020-08-17T03:00:00.000Z,Teste Rápido,5.0,,,1,0,0,0
+77285,81021,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-08-26T03:00:00.000Z,2020-08-26T03:00:00.000Z,Teste Rapido,45.0,,,0,0,0,0
+77601,81354,Masculino,Paulo Jacinto,Confirmado,Alta Medica,2020-08-21T03:00:00.000Z,2020-05-13T03:00:00.000Z,Teste Rapido,59.0,,,0,0,1,0
+79322,83119,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-09-01T03:00:00.000Z,2020-09-01T03:00:00.000Z,Teste Rapido,80.0,,,0,1,0,0
+79323,83120,Feminino,Paulo Jacinto,Confirmado,Encerramento do Isolamento Domiciliar,2020-09-01T03:00:00.000Z,2020-09-01T03:00:00.000Z,Teste Rapido,73.0,,,0,1,1,0
+80189,84007,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-09-04T03:00:00.000Z,2020-09-04T03:00:00.000Z,Teste Rápido,41.0,,,1,0,1,0
+81361,85215,Masculino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-09-10T03:00:00.000Z,2020-09-10T03:00:00.000Z,Teste Rapido,71.0,,,0,1,0,0
+82529,86402,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-09-14T03:00:00.000Z,2020-09-14T03:00:00.000Z,Teste Rápido,58.0,,,1,0,0,0
+83002,86894,Feminino,Paulo Jacinto,Confirmado,Encerramento do Isolamento Domiciliar,2020-08-17T03:00:00.000Z,2020-08-10T03:00:00.000Z,Teste Rapido,32.0,,,0,0,1,0
+85846,89827,Feminino,Paulo Jacinto,Confirmado,Isolamento Domiciliar,2020-09-24T03:00:00.000Z,2020-09-24T03:00:00.000Z,Teste Rapido,20.0,,,0,0,0,0
