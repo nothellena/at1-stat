@@ -146,6 +146,7 @@ boxplot(mulheres,homens,
         col = topo.colors(2)) 
 ```
 ***Output***
+<br/>
 ![](https://i.imgur.com/RKbuTCP.png)
 
 ## Questão 5
